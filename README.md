@@ -1,7 +1,9 @@
 # Hi there! My name is <strong>Marcela!</strong> 👋 
 
-![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![Gmail Badge](https://img.shields.io/badge/-marcelapsilverio@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcelapsilverio@gmail.com)](mailto:marcelapsilverio@gmail.com)
+
+[![Linkedin: Marcela Silvério](https://img.shields.io/badge/-marcela-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/marcela-prata-silv%C3%A9rio-85187620b/)
+
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About me
 
@@ -20,6 +22,8 @@ object **Marcela** {
 ---
 
 📚 Studying to improve my skills!
+
+
 
 ----
 
