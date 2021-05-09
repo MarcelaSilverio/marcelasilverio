@@ -51,11 +51,4 @@ object **Marcela** {
 ---
 ## ✨ **GitHub**
 
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelaSilverio&theme=dracula&hide_langs_below=1" />
-</a>
-
-
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarcelaSilverio&show_icons=true&theme=dracula&line_height=27" alt="**MarcelaSilverio** github stats"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=MarcelaSilverio&theme=radical" alt="MarcelaSilverio"/> 
