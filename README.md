@@ -1,7 +1,5 @@
 # Hi there! My name is <strong>Marcela!</strong> 👋 
 
-[![Gmail Badge](https://img.shields.io/badge/-marcelapsilverio@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcelapsilverio@gmail.com)](mailto:marcelapsilverio@gmail.com)
-
 [![Linkedin: Marcela Silvério](https://img.shields.io/badge/-marcela-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/marcela-prata-silv%C3%A9rio-85187620b/)
 
 
