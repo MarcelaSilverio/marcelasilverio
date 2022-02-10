@@ -21,9 +21,6 @@ object **Marcela** {
 
 📚 Studying to improve my skills!
 
-💬 “The secret of getting ahead is getting started.” – Mark Twain
-
-
 ----
 
 ## 🚀 **Tools**
