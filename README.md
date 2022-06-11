@@ -25,7 +25,7 @@
 "><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcela-prata-silv%C3%A9rio-85187620b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    
-     ![Snake animation](https://github.com/MarcelaSilverio/marcelasilverio/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/MarcelaSilverio/marcelasilverio/blob/output/github-contribution-grid-snake.svg)
    
  </div>
  
