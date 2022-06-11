@@ -1,4 +1,4 @@
-## Hii! Nice to meet you! I'm <strong>Marcela!</strong> :)
+## Hii! Nice to meet you! I'm <strong>Marcela</strong> :)
 
 <div align="center">
   <br>
