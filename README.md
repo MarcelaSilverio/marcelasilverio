@@ -1,4 +1,4 @@
-# Hi! Nice to meet you! My name is <strong>Marcela!</strong>
+# Hii! Nice to meet you! I'm <strong>Marcela!</strong> :)
 
 <div align="center"  margin-bottom="15">
   <a href="https://github.com/MarcelaSilverio">
