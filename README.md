@@ -1,5 +1,3 @@
-## Hii! Nice to meet you! I'm <strong>Marcela</strong> :)
-
 <div align="center">
   <br>
   <br>
@@ -9,9 +7,7 @@
   <br>
   <br>
 </div>
-  
- <img align="right" alt="Marcela-Pic"  height="150" src="images/marcela.png">
-  
+    
  ##
   
  [![My Skills](https://skillicons.dev/icons?i=js,ts,react,python,django,c,html,css,java,php)](https://skillicons.dev)
@@ -20,10 +16,7 @@
  
 
  <div margin-bottom="15"> 
-  <a href="https://www.linkedin.com/in/marcela-prata-silv%C3%A9rio-85187620b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   
- ![Snake animation](https://github.com/MarcelaSilverio/marcelasilverio/blob/output/github-contribution-grid-snake.svg)
-   
+  <a href="https://www.linkedin.com/in/marcela-prata-silv%C3%A9rio-85187620b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
  </div>
  
  
